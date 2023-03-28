@@ -4,6 +4,7 @@ description: A FastAPI server
 tags:
   - fastapi
   - python
+  - selenium
 ---
 
 # FastAPI Example
