@@ -16,6 +16,7 @@ This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 
 - FastAPI
 - Python 3
+- Selenium
 
 ## 💁‍♀️ How to use
 
